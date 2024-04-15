@@ -3,8 +3,7 @@
 This project manipulates an image using array operations with Numpy.Using array operations uncovers the magic under the hood - highlighting the roles computations like slicing and resizing arrays play in image processing.
 
 
-For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/linear-regression-from-scratch-using-matrices-991df6e28f62)
-
+For a detailed explanation on the theory used for this computation, check out the accompanying [article on medium](https://medium.com/@ayoakinkugbe/numpylisa-10-image-processing-steps-using-numpy-f747534cc667)
 ### Code
 You can find the code for this project [here](https://github.com/ayoakin/Image-Processing-with-NumPy/blob/main/Image_Processing_with_Numpy.ipynb).
 
